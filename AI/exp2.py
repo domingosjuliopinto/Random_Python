@@ -1,4 +1,4 @@
-#Program for vacuum cleaner to clean between two locations
+#Program to develop a two state vacuum cleaner simple reflex agent
 previous_locR = 'none'
 previous_locL = 'none'
 locR = 'dirty'
