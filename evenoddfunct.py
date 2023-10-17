@@ -1,3 +1,4 @@
+# Even Odd Function
 def evenodd(num):
     if (num % 2) == 0:
         print("{0} is Even number".format(num))  

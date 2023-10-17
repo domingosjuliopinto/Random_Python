@@ -1,0 +1,31 @@
+# program to demonstrate list datatype
+a= [1,2,3]
+print("List a is ")
+print(a)
+a[2]=4
+print("Replacing element 3 list is ")
+print(a)
+a.insert(1,5)
+print("After insert List a is ")
+print(a)
+a.append(7)
+print("After appending List a is ")
+print(a)
+b=[3,6,9]
+print("List b is ")
+print(b)
+b.reverse()
+print("After reversing List b is ")
+print(b)
+a=a+b
+print("Concatenating list a and b we get ")
+print(a)
+a.sort()
+print("sorted List is ")
+print(a)
+print("List length is ")
+print(len(a))
+print("element at 5 is ")
+print(a[4])
+print("elements from 2 to 5 is ")
+print(a[1:5])
